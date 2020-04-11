@@ -1,0 +1,11 @@
+body 
+{
+    text-align: center;
+    background-color: gray;
+    color: dark-gray;
+}
+
+h1
+{
+    font-size: +2;
+}
